@@ -1,0 +1,120 @@
+text,category
+swiggy food delivery,Food & Dining
+zomato order,Food & Dining
+dominos pizza,Food & Dining
+mcdonalds india,Food & Dining
+dinner at barbeque nation,Food & Dining
+cafe coffee day,Food & Dining
+local dhaba lunch,Food & Dining
+street food chaat,Food & Dining
+sushi restaurant,Food & Dining
+south indian tiffin service,Food & Dining
+biryani order,Food & Dining
+haldirams sweets,Food & Dining
+food court lunch,Food & Dining
+restaurant dinner bill,Food & Dining
+starbucks coffee,Food & Dining
+bigbasket grocery order,Groceries
+dmart weekly shopping,Groceries
+reliance fresh groceries,Groceries
+more supermarket,Groceries
+zepto quick delivery,Groceries
+blinkit grocery order,Groceries
+local kirana store,Groceries
+grocery store,Groceries
+vegetable vendor purchase,Groceries
+natures basket shopping,Groceries
+milk and dairy delivery,Groceries
+ola cab ride,Transportation
+uber ride,Transportation
+auto rickshaw fare,Transportation
+irctc train ticket,Transportation
+metro card recharge,Transportation
+petrol pump fuel,Transportation
+parking fee,Transportation
+car service and maintenance,Transportation
+fastag toll recharge,Transportation
+bus pass renewal,Transportation
+bike taxi ride,Transportation
+rapido bike ride,Transportation
+monthly rent payment,Housing
+pg accommodation fee,Housing
+society maintenance charge,Housing
+house rent advance,Housing
+rental brokerage fee,Housing
+apartment rent,Housing
+landlord rent transfer,Housing
+electricity bill payment,Utilities
+water bill,Utilities
+lpg gas cylinder booking,Utilities
+broadband internet bill,Utilities
+jio mobile recharge,Utilities
+airtel postpaid bill,Utilities
+vi mobile recharge,Utilities
+dth recharge,Utilities
+pvr cinemas movie tickets,Entertainment
+inox movie tickets,Entertainment
+bookmyshow booking,Entertainment
+netflix subscription,Entertainment
+hotstar subscription,Entertainment
+spotify premium,Entertainment
+concert tickets,Entertainment
+video game purchase,Entertainment
+amusement park tickets,Entertainment
+flipkart order,Shopping
+myntra clothing purchase,Shopping
+amazon india purchase,Shopping
+ajio shopping,Shopping
+croma electronics,Shopping
+big bazaar shopping,Shopping
+online shopping order,Shopping
+mall shopping,Shopping
+local market shopping,Shopping
+apollo pharmacy,Health
+medplus pharmacy,Health
+doctor consultation fee,Health
+practo appointment booking,Health
+dentist appointment,Health
+gym membership fee,Health
+health insurance premium,Health
+diagnostic lab test,Health
+ayurvedic treatment,Health
+school fees payment,Education
+college tuition fee,Education
+byjus subscription,Education
+coaching class fees,Education
+unacademy course,Education
+textbook purchase,Education
+exam registration fee,Education
+tutoring session,Education
+irctc train booking,Travel
+makemytrip flight booking,Travel
+goibibo hotel booking,Travel
+oyo rooms booking,Travel
+domestic flight ticket,Travel
+travel insurance,Travel
+vacation package,Travel
+airline baggage fee,Travel
+netflix monthly plan,Subscriptions
+hotstar annual plan,Subscriptions
+spotify family plan,Subscriptions
+amazon prime membership,Subscriptions
+icloud storage subscription,Subscriptions
+software subscription renewal,Subscriptions
+news website subscription,Subscriptions
+home loan emi payment,EMI / Loans
+car loan emi,EMI / Loans
+personal loan installment,EMI / Loans
+credit card bill payment,EMI / Loans
+bajaj finserv emi,EMI / Loans
+education loan emi,EMI / Loans
+two wheeler loan emi,EMI / Loans
+gold loan installment,EMI / Loans
+atm cash withdrawal,Other
+upi transfer to friend,Other
+bank service charge,Other
+donation to charity,Other
+miscellaneous purchase,Other
+cash payment,Other
+gift for friend,Other
+unexpected expense,Other

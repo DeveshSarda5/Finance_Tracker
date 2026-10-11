@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-cream-bg text-espresso-900 antialiased;
+  font-family: 'Manrope', system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+
+/* Tabular figures for anything that must align vertically: amounts, dates. */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

@@ -1,0 +1,18 @@
+node_modules/
+dist/
+build/
+.env
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+ml-service/model/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local Claude Code settings
+.claude/
