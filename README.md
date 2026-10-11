@@ -13,14 +13,26 @@ and a Python ML microservice that auto-categorizes expenses from their descripti
 
 ## Screenshots
 
-The dashboard preview uses temporary sample API responses and a demo account; the figures
-are illustrative, not live account data. The login and registration images show the rendered
-forms only. A MySQL server was unavailable during capture, so database-backed flows were
-not exercised.
+The dashboard and chart previews use temporary sample API responses and a demo account; all
+figures are illustrative, not live account data. The login and registration images show the
+rendered forms only. A MySQL server was unavailable during capture, so database-backed flows
+were not exercised.
 
 ### Dashboard preview
 
-![FinDash dashboard with sample data](screenshots/dashboard.png)
+<p align="center">
+  <img src="screenshots/dashboard.png" alt="Centered FinDash dashboard preview with sample data" width="760">
+</p>
+
+### Category and cash-flow charts
+
+The pie chart shows each sample spending category, with subscriptions highlighted in orange.
+The income-versus-expenses chart uses green for income and red for expenses; the dashboard
+preview also shows investment contributions in blue.
+
+| Spending by category | Income vs. expenses |
+| --- | --- |
+| ![Spending by category pie chart](screenshots/pie-chart.png) | ![Income versus expenses chart](screenshots/income-expense-chart.png) |
 
 ### Login
 
