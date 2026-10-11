@@ -11,6 +11,25 @@ and a Python ML microservice that auto-categorizes expenses from their descripti
 | Backend   | Node.js, Express, MySQL (mysql2), JWT auth          |
 | ML        | Python, Flask, scikit-learn (TF-IDF + Naive Bayes)  |
 
+## Screenshots
+
+The dashboard preview uses temporary sample API responses and a demo account; the figures
+are illustrative, not live account data. The login and registration images show the rendered
+forms only. A MySQL server was unavailable during capture, so database-backed flows were
+not exercised.
+
+### Dashboard preview
+
+![FinDash dashboard with sample data](screenshots/dashboard.png)
+
+### Login
+
+![FinDash login form](screenshots/login.png)
+
+### Registration
+
+![FinDash registration form](screenshots/register.png)
+
 ## Project structure
 
 ```
@@ -34,6 +53,7 @@ and a Python ML microservice that auto-categorizes expenses from their descripti
 ├── ml-service/
 │   ├── data/               Category-classifier training data
 │   └── model/              Generated model (not tracked)
+├── screenshots/             README screenshots
 ├── .gitignore
 └── README.md
 ```

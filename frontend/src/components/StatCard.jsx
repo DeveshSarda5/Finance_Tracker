@@ -18,7 +18,7 @@ export default function StatCard({ label, value, tone = 'neutral', icon }) {
           </span>
         )}
       </div>
-      <p className="mt-3 text-2xl font-bold tracking-tight text-espresso-900 tabular-nums">{value}</p>
+      <p className="mt-3 text-lg font-bold tracking-tight text-espresso-900 tabular-nums">{value}</p>
     </div>
   );
 }
